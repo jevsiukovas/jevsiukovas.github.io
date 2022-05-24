@@ -4,6 +4,8 @@
 
 body {
     background: linear-gradient(#ffffff, #FF8500) fixed;
+    width: 334px;
+    height: 710px;
     position: absolute;
     left: 50%;
     top: 50%;
